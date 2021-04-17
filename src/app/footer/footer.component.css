@@ -1,0 +1,10 @@
+.contatos{
+  display: flex;
+  justify-content: space-around;
+}
+
+.contatos div{
+  width: 350px;
+  height: 100px;
+
+}
